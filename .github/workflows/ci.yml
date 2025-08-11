@@ -32,3 +32,5 @@ jobs:
           tags: |
             alade01/loadgenerator:latest
             alade01/loadgenerator:${{ github.sha }}
+
+
